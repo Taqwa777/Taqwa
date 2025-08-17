@@ -23,7 +23,7 @@
 
 ```dart
 class TaqwaSkills {
-  final languages = ['Dart', 'HTML', 'CSS', 'JavaScript'];
+  final languages = ['Dart'];
   final frameworks = ['Flutter'];
   final tools = ['Figma', 'Firebase', 'Git', 'VSCode'];
   final focus = ['UI/UX Design', 'Arabic App Interfaces', 'Login & E-commerce Screens'];
